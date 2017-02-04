@@ -1,0 +1,5 @@
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Model\bin\Debug\BleutradeOperator.Model.dll
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Model\bin\Debug\BleutradeOperator.Model.pdb
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Model\obj\Debug\BleutradeOperator.Model.csprojResolveAssemblyReference.cache
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Model\obj\Debug\BleutradeOperator.Model.dll
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Model\obj\Debug\BleutradeOperator.Model.pdb

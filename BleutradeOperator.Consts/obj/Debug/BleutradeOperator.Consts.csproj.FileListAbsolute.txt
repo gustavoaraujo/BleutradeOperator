@@ -1,0 +1,4 @@
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Consts\bin\Debug\BleutradeOperator.Consts.dll
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Consts\bin\Debug\BleutradeOperator.Consts.pdb
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Consts\obj\Debug\BleutradeOperator.Consts.dll
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Consts\obj\Debug\BleutradeOperator.Consts.pdb

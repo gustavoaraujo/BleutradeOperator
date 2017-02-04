@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Operations\obj\Debug\BleutradeOperator.Operations.csprojResolveAssemblyReference.cache
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Operations\bin\Debug\BleutradeOperator.Operations.dll
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Operations\bin\Debug\BleutradeOperator.Operations.pdb
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Operations\bin\Debug\BleutradeOperator.Controller.dll
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Operations\bin\Debug\BleutradeOperator.Model.dll
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Operations\bin\Debug\BleutradeOperator.Request.dll
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Operations\bin\Debug\BleutradeOperator.Response.dll
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Operations\bin\Debug\RestSharp.dll
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Operations\bin\Debug\BleutradeOperator.Controller.pdb
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Operations\bin\Debug\BleutradeOperator.Model.pdb
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Operations\bin\Debug\BleutradeOperator.Request.pdb
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Operations\bin\Debug\BleutradeOperator.Response.pdb
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Operations\bin\Debug\RestSharp.xml
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Operations\obj\Debug\BleutradeOperator.Operations.dll
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Operations\obj\Debug\BleutradeOperator.Operations.pdb

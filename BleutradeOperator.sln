@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.25928.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BleutradeOperator", "BleutradeOperator\BleutradeOperator.csproj", "{8C6BBB86-8A83-462A-9D8A-0BC5111678F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BleutradeOperator.Model", "BleutradeOperator.Model\BleutradeOperator.Model.csproj", "{BBB44155-74DB-4B9F-9C22-3C5A06BC1E1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BleutradeOperator.Controller", "BleutradeOperator.Controller\BleutradeOperator.Controller.csproj", "{6BC86ED6-8673-4D66-AC2F-FE1CF75C5AFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BleutradeOperator.Response", "BleutradeOperator.Response\BleutradeOperator.Response.csproj", "{DE7F2B79-B8CC-4463-94E2-DA1F5F521D00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BleutradeOperator.Request", "BleutradeOperator.Request\BleutradeOperator.Request.csproj", "{A79E7FF4-B7C3-4960-BB68-7B077676B9CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BleutradeOperator.Operations", "BleutradeOperator.Operations\BleutradeOperator.Operations.csproj", "{5D58142E-A614-4FC2-8918-3AC5AFCB8051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BleutradeOperator.Consts", "BleutradeOperator.Consts\BleutradeOperator.Consts.csproj", "{7E940C71-29AC-4E9D-B238-38D515896656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C6BBB86-8A83-462A-9D8A-0BC5111678F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6BBB86-8A83-462A-9D8A-0BC5111678F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6BBB86-8A83-462A-9D8A-0BC5111678F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6BBB86-8A83-462A-9D8A-0BC5111678F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB44155-74DB-4B9F-9C22-3C5A06BC1E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB44155-74DB-4B9F-9C22-3C5A06BC1E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB44155-74DB-4B9F-9C22-3C5A06BC1E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB44155-74DB-4B9F-9C22-3C5A06BC1E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BC86ED6-8673-4D66-AC2F-FE1CF75C5AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BC86ED6-8673-4D66-AC2F-FE1CF75C5AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BC86ED6-8673-4D66-AC2F-FE1CF75C5AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BC86ED6-8673-4D66-AC2F-FE1CF75C5AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE7F2B79-B8CC-4463-94E2-DA1F5F521D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7F2B79-B8CC-4463-94E2-DA1F5F521D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7F2B79-B8CC-4463-94E2-DA1F5F521D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7F2B79-B8CC-4463-94E2-DA1F5F521D00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A79E7FF4-B7C3-4960-BB68-7B077676B9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79E7FF4-B7C3-4960-BB68-7B077676B9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79E7FF4-B7C3-4960-BB68-7B077676B9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79E7FF4-B7C3-4960-BB68-7B077676B9CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D58142E-A614-4FC2-8918-3AC5AFCB8051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D58142E-A614-4FC2-8918-3AC5AFCB8051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D58142E-A614-4FC2-8918-3AC5AFCB8051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D58142E-A614-4FC2-8918-3AC5AFCB8051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E940C71-29AC-4E9D-B238-38D515896656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E940C71-29AC-4E9D-B238-38D515896656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E940C71-29AC-4E9D-B238-38D515896656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E940C71-29AC-4E9D-B238-38D515896656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

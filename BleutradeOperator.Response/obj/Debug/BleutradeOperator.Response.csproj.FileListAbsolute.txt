@@ -1,0 +1,5 @@
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Response\bin\Debug\BleutradeOperator.Response.dll
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Response\bin\Debug\BleutradeOperator.Response.pdb
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Response\obj\Debug\BleutradeOperator.Response.csprojResolveAssemblyReference.cache
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Response\obj\Debug\BleutradeOperator.Response.dll
+C:\Users\Cliente\Desktop\Programas\BleutradeOperator\BleutradeOperator.Response\obj\Debug\BleutradeOperator.Response.pdb
